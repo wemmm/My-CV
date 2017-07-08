@@ -17,8 +17,8 @@ I am a creative, committed postgraduate based in London. Having fulfilled my aca
 ## Projects
 
 
-|  | Title        | Week          | What is it? | 
-| ----  | ------------- |:-------------:| -------|
+| _______ | Title        | Week          | What is it? | 
+| :---------:  | ------------- |-------------| -------|
 | ![mindmapp](https://github.com/wemmm/My-CV/blob/master/images/mindmapp.png) | [Mind Mapp](https://github.com/charlottebrf/mytm)      | 9 |  An interactive mind mapp in JavaScript, Node.js and HTML5 Canvas. Tested with Zombie, Mocha, Chai and Supertest. |
 | ![mindmapp](https://github.com/wemmm/My-CV/blob/master/images/vaporgram.png)| [Vaporgram](https://github.com/wemmm/instagram-challenge)    | 8     |  An instagram-like site in Rails, with an... interesting aesthetic. RSpec & Capybara used for testing. |
 | ![mindmapp](https://github.com/wemmm/My-CV/blob/master/images/rps.png)| [Rock Paper Scissors](https://github.com/wemmm/rps-challenge) | 4      |  Play Rock, Paper Scissors in Sinatra and Ruby! Tested with RSpec & Capybara. |
