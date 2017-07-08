@@ -17,12 +17,12 @@ I am a creative, committed postgraduate based in London. Having fulfilled my aca
 ## Projects
 
 
-|  | Title        | Week          | What is it? | Tested With: |
-| ----  | ------------- |:-------------:| -------| ----- |
-| ![mindmapp](https://github.com/wemmm/My-CV/blob/master/images/mindmapp.png) | [Mind Mapp](https://github.com/charlottebrf/mytm)      | 9 |  An interactive mind mapp in JavaScript, Node.js and HTML5 Canvas. | Zombie & Mocha |
-| ![mindmapp](https://github.com/wemmm/My-CV/blob/master/images/vaporgram.png)| [Vaporgram](https://github.com/wemmm/instagram-challenge)    | 8     |  An instagram-like site in Rails, with an... interesting aesthetic. | RSpec & Capybara |
-| ![mindmapp](https://github.com/wemmm/My-CV/blob/master/images/rps.png)| [Rock Paper Scissors](https://github.com/wemmm/rps-challenge) | 4      |  Play Rock, Paper Scissors in Sinatra and Ruby! | RSpec & Capybara |
-| x | Chō Han Bakuchi | 6 | A traditional Japanese dice game to help me brush up on JavaScript after one week spent learning it- and to improve my refactoring skills. | Jasmine |
+|  | Title        | Week          | What is it? | 
+| ----  | ------------- |:-------------:| -------|
+| ![mindmapp](https://github.com/wemmm/My-CV/blob/master/images/mindmapp.png) | [Mind Mapp](https://github.com/charlottebrf/mytm)      | 9 |  An interactive mind mapp in JavaScript, Node.js and HTML5 Canvas. Tested with Zombie, Mocha, Chai and Supertest. |
+| ![mindmapp](https://github.com/wemmm/My-CV/blob/master/images/vaporgram.png)| [Vaporgram](https://github.com/wemmm/instagram-challenge)    | 8     |  An instagram-like site in Rails, with an... interesting aesthetic. RSpec & Capybara used for testing. |
+| ![mindmapp](https://github.com/wemmm/My-CV/blob/master/images/rps.png)| [Rock Paper Scissors](https://github.com/wemmm/rps-challenge) | 4      |  Play Rock, Paper Scissors in Sinatra and Ruby! Tested with RSpec & Capybara. |
+| ![chohan](https://github.com/wemmm/My-CV/blob/master/images/chohan.png) | Chō Han Bakuchi | 6 | A traditional Japanese dice game to help me brush up on JavaScript after one week spent learning it- and to improve my refactoring skills. Tested with Jasmine. |
 
 ## Skills
 
@@ -37,9 +37,6 @@ I am a creative, committed postgraduate based in London. Having fulfilled my aca
 - I have worked as part of a team throughout my professional life, from small, close-knit groups to exhibition teams of over forty people, and I enjoy contributing and collaborating to achieve goals and complete projects.
 - I have a lot of experience of pair programming and project groups.
 
-#### Fast and Independent Learning
-
-- 
 
 ## Education
 
