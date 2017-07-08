@@ -4,6 +4,15 @@
 
 I am a creative, committed postgraduate based in London. Having fulfilled my academic goals, coding deeply appealed to my creativity and eagerness to learn. I care deeply about making things- from programs and artwork all the way to coffee. I am looking to embark upon a career in the London tech industry as a junior developer.
 
+## Projects
+
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 ## Skills
 
 #### Creativity
