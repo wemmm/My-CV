@@ -1,17 +1,17 @@
 ## Jenny Wem
 
-[SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [INTERESTS](#interests) | <a href="http://smoothwise.tumblr.com"/>ARTWORK</a> 
+[SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [INTERESTS](#interests) | <a href="http://smoothwise.tumblr.com"/>ARTWORK</a>
 
 I am a creative, committed postgraduate based in London. Having fulfilled my academic goals, coding deeply appealed to my creativity and eagerness to learn. I care deeply about making things- from programs and artwork all the way to coffee. I am looking to embark upon a career in the London tech industry as a junior developer.
 
 ## Projects
 
 
-| Tables        | Are           | Cool  |
+| Title        | Week          | Link  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Mind Mapp      | 9 | ![mindmapp](https://github.com/wemmm/My-CV/blob/master/images/rsz_1title853790273.png) |
+| Vaporgram    | 8     |   $12 |
+| Rock Paper Scissors | 4      |    $1 |
 
 ## Skills
 
