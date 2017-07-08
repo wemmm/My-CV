@@ -12,7 +12,7 @@
 
 [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [INTERESTS](#interests) | <a href="http://smoothwise.tumblr.com"/>ARTWORK</a>
 
-I am a creative, committed postgraduate based in London. Having fulfilled my academic goals, coding deeply appealed to my creativity and eagerness to learn. I care deeply about making things- from programs and artwork all the way to coffee. I am looking to embark upon a career in the London tech industry as a junior developer, and to continue learning about coding!
+I am a creative, committed postgraduate based in London. Having fulfilled my academic goals, coding appealed to my creativity and eagerness to learn. I care deeply about making things- from programs and artwork all the way to coffee. I am looking to embark upon a career in the London tech industry as a junior developer, and to continue learning about coding!
 
 ## Projects
 
@@ -44,12 +44,15 @@ I am a creative, committed postgraduate based in London. Having fulfilled my aca
 
 #### Makers Academy (May '17 cohort)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- Active and independent learning
+- Problem solving
+- Language agnosticism
+- OOP, SOLID, MVC.
+- Commitment to TDD
+- Clean, readable, maintainable code
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, Rails, Javascript, Node.js, CSS3
+- Rspec, Jasmine, Mocha, Capybara, Zombie.
 
 #### Goldsmiths (September 2013 to July 2015)
 
@@ -81,3 +84,4 @@ I am a creative, committed postgraduate based in London. Having fulfilled my aca
 - Drinking damn fine coffee
 - Reading stuff, from blogs to literature and everything inbetween
 - Printmaking
+- Knitting
