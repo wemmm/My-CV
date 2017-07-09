@@ -23,7 +23,7 @@ I am a creative, committed postgraduate based in London. Having fulfilled my aca
 | ![mindmapp](https://github.com/wemmm/My-CV/blob/master/images/vaporgram.png)| [Vaporgram](https://github.com/wemmm/instagram-challenge)    | 8     |  An instagram-like site in Rails, with an... interesting aesthetic. RSpec & Capybara used for testing. |
 | ![chohan](https://github.com/wemmm/My-CV/blob/master/images/chohan.png) | [Chō Han Bakuchi](https://github.com/wemmm/cho-han) | 6 | A traditional Japanese dice game to help me brush up on JavaScript after one week spent learning it- and to improve my refactoring skills. Tested with Jasmine. |
 | ![mindmapp](https://github.com/wemmm/My-CV/blob/master/images/rps.png)| [Rock Paper Scissors](https://github.com/wemmm/rps-challenge) | 4      |  Play Rock, Paper Scissors in Sinatra and Ruby! Tested with RSpec & Capybara. |
-| ![airport](https://github.com/wemmm/My-CV/blob/master/images/rps.png)| [Airport](https://github.com/wemmm/airport_challenge) | 1      |  My very first challenge at Makers Academy. A small command line program that simulates a basic air traffic control system, made in Ruby and tested in RSpec. |
+| ![airport](pending)| [Airport](https://github.com/wemmm/airport_challenge) | 1      |  My very first challenge at Makers Academy. A small command line program that simulates a basic air traffic control system, made in Ruby and tested in RSpec. |
 
 ## Skills
 
