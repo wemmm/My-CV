@@ -12,36 +12,41 @@
 
 [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [INTERESTS](#interests) | <a href="http://smoothwise.tumblr.com"/>ARTWORK</a>
 
-I am a creative, committed postgraduate based in London. Having fulfilled my academic goals, coding appealed to my creativity and eagerness to learn. I care deeply about making things- from programs and artwork all the way to coffee. I am looking to embark upon a career in the London tech industry as a junior developer, and to continue along the path of software craftsmanship!
+I am a creative, committed postgraduate based in London. Having fulfilled my academic goals and worked in a diverse range of jobs, coding appealed to my creativity and eagerness to learn. I chose to embark upon the highly selective Makers Academy bootcamp, and spent twelve intense weeks pushing myself to produce clear, readable code. I care deeply about making things- from programs and artwork all the way to coffee, and I am looking to embark upon a career in the London tech industry as a junior developer, and to continue along the path of software craftsmanship!
 
 ## Projects
 
 
-| ![buffer](https://github.com/wemmm/My-CV/blob/master/images/tablebuffer.png)![buffer](https://github.com/wemmm/My-CV/blob/master/images/tablebuffer.png) | Title        | Week          | What is it? | 
+| ![buffer](https://github.com/wemmm/My-CV/blob/master/images/tablebuffer.png)![buffer](https://github.com/wemmm/My-CV/blob/master/images/tablebuffer.png) | Title        | Timeframe          | What is it? | 
 | :---------:  | ------------- |-------------| -------|
-| ![mindmapp](https://github.com/wemmm/My-CV/blob/master/images/mindmapp.png) | [Mind Mapp](https://github.com/charlottebrf/mytm)      | 9 |  An interactive mind mapp in JavaScript, Node.js and HTML5 Canvas. Tested with Zombie, Mocha, Chai and Supertest. |
-| ![mindmapp](https://github.com/wemmm/My-CV/blob/master/images/vaporgram.png)| [Vaporgram](https://github.com/wemmm/instagram-challenge)    | 8     |  An instagram-like site in Rails, with an... interesting aesthetic. RSpec & Capybara used for testing. |
-| ![chohan](https://github.com/wemmm/My-CV/blob/master/images/chohan.png) | [Chō Han Bakuchi](https://github.com/wemmm/cho-han) | 6 | A traditional Japanese dice game to help me brush up on JavaScript after one week spent learning it- and to improve my refactoring skills. Tested with Jasmine. |
-| ![mindmapp](https://github.com/wemmm/My-CV/blob/master/images/rps.png)| [Rock Paper Scissors](https://github.com/wemmm/rps-challenge) | 4      |  Play Rock, Paper Scissors in Sinatra and Ruby! Tested with RSpec & Capybara. |
-| ![airport](https://github.com/wemmm/My-CV/blob/master/images/airport.png)| [Airport](https://github.com/wemmm/airport_challenge) | 1      |  My very first challenge at Makers Academy. A small command line program that simulates a basic air traffic control system, made in Ruby and tested in RSpec. |
+| ![mindmapp](https://github.com/wemmm/My-CV/blob/master/images/mindmapp.png) | [Mind Mapp](https://github.com/charlottebrf/mytm)      | 1 week |  An interactive mind mapp in JavaScript, Node.js and HTML5 Canvas. Tested with Zombie, Mocha, Chai and Supertest. |
+| ![mindmapp](https://github.com/wemmm/My-CV/blob/master/images/vaporgram.png)| [Vaporgram](https://github.com/wemmm/instagram-challenge)    | 1 weekend     |  An instagram-like site in Rails, with an... interesting aesthetic. RSpec & Capybara used for testing. |
+| ![chohan](https://github.com/wemmm/My-CV/blob/master/images/chohan.png) | [Chō Han Bakuchi](https://github.com/wemmm/cho-han) | 2 weeks | A traditional Japanese dice game to help me brush up on JavaScript after one week spent learning it- and to improve my refactoring skills. Tested with Jasmine. |
+| ![rps](https://github.com/wemmm/My-CV/blob/master/images/rps.png)| [Rock Paper Scissors](https://github.com/wemmm/rps-challenge) | 1 week     |  Play Rock, Paper Scissors in Sinatra and Ruby! Tested with RSpec & Capybara. |
+| ![airport](https://github.com/wemmm/My-CV/blob/master/images/airport.png)| [Airport](https://github.com/wemmm/airport_challenge) | 1 weekend      |  My very first challenge at Makers Academy. A small command line program that simulates a basic air traffic control system, made in Ruby and tested in RSpec. |
 
 ## Skills
+
+#### Communication
+- I value clear, honest communication and open feedback.
+- I have worked in a broad variety of client-facing roles and strive to be polite, cheerful and helpful.
+- I am committed to Agile practices such as face-to-face communication, continuous delivery, collaboration and self-organisation.
 
 #### Creativity
 
 - I am an experienced user of Adobe Photoshop, Illustrator and InDesign thanks to my background in art and design.
 - I have obtained my BA and MA in Illustration and Contemporary Art Theory respectively, and I am a member of Thames Side Studios. I always strive to use my creative perspective when approaching challenges.
-- I enjoy putting my skills to use with front end technologies and UI/UX design.
+- I enjoy putting my skills to use with front end technologies and UI/UX design, but find that a creative approach also helps me with back end tech as well.
 
 #### Teamwork
 
 - I have worked as part of a team throughout my professional life, from small, close-knit groups to exhibition teams of over forty people, and I enjoy contributing and collaborating to achieve goals and complete projects.
-- I have a lot of experience of pair programming and project groups.
+- I have experience of pair programming and project groups, and worked exclusively in pairs and groups during my time at Makers Academy.
 
 
 ## Education
 
-#### Makers Academy (May '17 cohort)
+#### Makers Academy (Graduating August 2017)
 
 - Active and independent learning
 - Problem solving
