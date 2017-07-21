@@ -12,7 +12,7 @@
 
 [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [INTERESTS](#interests) | <a href="http://smoothwise.tumblr.com"/>ARTWORK</a>
 
-I am a creative, committed postgraduate based in London. Having fulfilled my academic goals and worked in a diverse range of jobs, coding appealed to my creativity and eagerness to learn. I chose to embark upon the highly selective Makers Academy bootcamp, and spent twelve intense weeks pushing myself to produce clear, readable code. I care deeply about making things- from programs and artwork all the way to coffee, and I am looking to embark upon a career in the London tech industry as a junior developer, and to continue along the path of software craftsmanship!
+I am a creative, committed postgraduate based in London. Having fulfilled my academic goals and worked in a diverse range of jobs, coding appealed to my creativity and eagerness to learn. I chose to embark upon the highly selective Makers Academy bootcamp, and spent twelve intense weeks pushing myself to produce clear, readable code. I care deeply about making things- from programs and artwork all the way to coffee, and I am looking to embark upon a career in the London tech industry as a junior developer- and to continue along the path of software craftsmanship!
 
 ## Projects
 
