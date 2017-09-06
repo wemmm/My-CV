@@ -46,7 +46,7 @@ I am a creative, committed postgraduate based in London. Having fulfilled my aca
 
 ## Education
 
-#### Makers Academy (Graduating August 2017)
+#### Makers Academy (Graduated August 2017)
 
 - Active and independent learning
 - Problem solving
