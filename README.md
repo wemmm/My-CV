@@ -70,6 +70,10 @@ I am a creative, committed postgraduate based in London. Having fulfilled my aca
 
 ## Experience
 
+**Junior Developer** (August 2017 to present)
+*Assistant systems engineer*
+I work as part of a close-knit, diverse and agile team to create innovative apps and prototypes for a variety of clients. We're language agnostic and work in a broad variety of frameworks!
+
 **Artist/Designer** (2012 to 2017)    
 *Freelance artist/designer*  
 I created print and web graphics for a variety of clients, and also my own intaglio print work. 
@@ -81,10 +85,6 @@ Making, serving & talking about coffee, providing bonhomie to the coffee lovers 
 **The Flood Gallery** (February 2015 to April 2016)   
 *Gallery Assistant*  
 Sales, website maintenance, social media management, web & print graphics, planning & executing exhibitions.
-
-**Elvis at the O2** (November 2014 to February 2015)   
-*Exhibition Assistant*  
-Welcoming guests, maintaining exhibits, green screen photography, photo editing & manipulation.
 
 ## Interests
 #### When I'm not coding, you can find me:
