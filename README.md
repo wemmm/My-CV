@@ -70,8 +70,10 @@ I am a creative, committed postgraduate based in London. Having fulfilled my aca
 
 ## Experience
 
-**Junior Developer** (August 2017 to present)
+**Tata Consultancy Services** (August 2017 to present)
+
 *Assistant systems engineer*
+
 I work as part of a close-knit, diverse and agile team to create innovative apps and prototypes for clients. We're tech agnostic and work in a broad variety of frameworks and languages: Python, Flask, Ruby, RoR, JavaScript, Node.js and React to name a few!
 
 **Artist/Designer** (2012 to 2017)    
