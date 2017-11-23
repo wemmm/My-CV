@@ -72,22 +72,18 @@ I am a creative, committed postgraduate based in London. Having fulfilled my aca
 
 **Tata Consultancy Services** (August 2017 to present)    
 *Assistant systems engineer*
-
 I work as part of a close-knit, diverse and agile team to create innovative apps and prototypes for clients. We're tech agnostic and work in a broad variety of frameworks and languages: Python, Flask, Ruby, RoR, JavaScript, Node.js and React to name a few!
 
 **Artist/Designer** (2012 to 2017)    
 *Freelance artist/designer*  
-
 I created print and web graphics for a variety of clients, and also my own intaglio print work. 
 
 **Mousetail Coffee Stories** (April 2016 to April 2017)   
 *Supervisor*  
-
 Making, serving & talking about coffee, providing bonhomie to the coffee lovers of London, training new staff.
 
 **The Flood Gallery** (February 2015 to April 2016)   
 *Gallery Assistant*  
-
 Sales, website maintenance, social media management, web & print graphics, planning & executing exhibitions.
 
 ## Interests
