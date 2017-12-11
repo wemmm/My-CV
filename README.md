@@ -18,7 +18,8 @@ I am a creative, committed postgraduate based in London. Having fulfilled my aca
 
 | ![buffer](https://github.com/wemmm/My-CV/blob/master/images/tablebuffer.png)![buffer](https://github.com/wemmm/My-CV/blob/master/images/tablebuffer.png) | Title        | Timeframe          | What is it? | 
 | :---------:  | ------------- |-------------| -------|
-| ![hauntedflat](https://github.com/wemmm/My-CV/blob/master/images/haunted.png) | [The Haunted Flat](https://github.com/wemmm/the-haunted-flat)      | 3 weeks |  A text-based adventure game that I worked on in my free time. Uses JavaScript, Node.js and npm-text-adventure. |
+| ![hauntedflat](https://github.com/wemmm/My-CV/blob/master/images/concordia.png) | [Concordia Jones](https://github.com/wemmm/concordia)      | Ongoing |  A visual novel in Ren'Py/Python. A lengthy hobby project, and an attempt to bring together artwork, writing and programming. |
+| ![hauntedflat](https://github.com/wemmm/My-CV/blob/master/images/haunted.png) | [The Haunted Flat](https://github.com/wemmm/the-haunted-flat)      | 3 weeks |  A text-based adventure game that I worked on in my free time. Uses JavaScript, Node.js, npm-text-adventure and a hefty dose of Russian literature. |
 | ![rememberall](https://github.com/wemmm/My-CV/blob/master/images/rememberall.png) | [RememberAll](https://github.com/wemmm/RememberAll)      | 2 weeks |  A phone app for iOS and Android designed to help you remember people you meet. Made with React Native and Realm, and tested with Jest, Chai and Cavy. |
 | ![mindmapp](https://github.com/wemmm/My-CV/blob/master/images/mindmapp.png) | [Mind Mapp](https://github.com/charlottebrf/mytm)      | 1 week |  An interactive mind mapp in JavaScript, Node.js and HTML5 Canvas. Tested with Zombie, Mocha, Chai and Supertest. |
 | ![mindmapp](https://github.com/wemmm/My-CV/blob/master/images/vaporgram.png)| [Vaporgram](https://github.com/wemmm/instagram-challenge)    | 1 weekend     |  An instagram-like site in Rails, with an... interesting aesthetic. RSpec & Capybara used for testing. |
@@ -71,18 +72,22 @@ I am a creative, committed postgraduate based in London. Having fulfilled my aca
 ## Experience
 
 **Tata Consultancy Services** (August 2017 to present)    
+
 *Assistant systems engineer*
 I work as part of a close-knit, diverse and agile team to create innovative apps and prototypes for clients. We're tech agnostic and work in a broad variety of frameworks and languages: Python, Flask, Ruby, RoR, JavaScript, Node.js and React to name a few!
 
 **Artist/Designer** (2012 to 2017)    
+
 *Freelance artist/designer*  
 I created print and web graphics for a variety of clients, and also my own intaglio print work. 
 
 **Mousetail Coffee Stories** (April 2016 to April 2017)   
+
 *Supervisor*  
 Making, serving & talking about coffee, providing bonhomie to the coffee lovers of London, training new staff.
 
 **The Flood Gallery** (February 2015 to April 2016)   
+
 *Gallery Assistant*  
 Sales, website maintenance, social media management, web & print graphics, planning & executing exhibitions.
 
