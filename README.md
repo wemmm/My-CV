@@ -21,7 +21,7 @@ I am a creative, committed postgraduate based in London. Having fulfilled my aca
 | ![hauntedflat](https://github.com/wemmm/My-CV/blob/master/images/concordia.png) | [Concordia Jones](https://github.com/wemmm/concordia)      | Ongoing |  A visual novel in Ren'Py/Python. A lengthy hobby project, and an attempt to bring together artwork, writing and programming. |
 | ![hauntedflat](https://github.com/wemmm/My-CV/blob/master/images/haunted.png) | [The Haunted Flat](https://github.com/wemmm/the-haunted-flat)      | 3 weeks |  A text-based adventure game that I worked on in my free time. Uses JavaScript, Node.js, npm-text-adventure and a hefty dose of Russian literature. |
 | ![rememberall](https://github.com/wemmm/My-CV/blob/master/images/rememberall.png) | [RememberAll](https://github.com/wemmm/RememberAll)      | 2 weeks |  A phone app for iOS and Android designed to help you remember people you meet. Made with React Native and Realm, and tested with Jest, Chai and Cavy. |
-| ![mindmapp](https://github.com/wemmm/My-CV/blob/master/images/mindmapp.png) | [Mind Mapp](https://github.com/charlottebrf/mytm)      | 1 week |  An interactive mind mapp in JavaScript, Node.js and HTML5 Canvas. Tested with Zombie, Mocha, Chai and Supertest. |
+| ![mindmapp](https://github.com/wemmm/My-CV/blob/master/images/mindmapp.png) | [Mind Mapp](https://github.com/charlottebrf/mytm)      | 1 week |  An interactive mind map web app in JavaScript, Node.js and HTML5 Canvas. Tested with Zombie, Mocha, Chai and Supertest. |
 | ![mindmapp](https://github.com/wemmm/My-CV/blob/master/images/vaporgram.png)| [Vaporgram](https://github.com/wemmm/instagram-challenge)    | 1 weekend     |  An instagram-like site in Rails, with an... interesting aesthetic. RSpec & Capybara used for testing. |
 | ![chohan](https://github.com/wemmm/My-CV/blob/master/images/chohan.png) | [Chō Han Bakuchi](https://github.com/wemmm/cho-han) | 2 weeks | A traditional Japanese dice game to help me brush up on JavaScript after one week spent learning it- and to improve my refactoring skills. Tested with Jasmine. |
 | ![rps](https://github.com/wemmm/My-CV/blob/master/images/rps.png)| [Rock Paper Scissors](https://github.com/wemmm/rps-challenge) | 1 week     |  Play Rock, Paper Scissors in Sinatra and Ruby! Tested with RSpec & Capybara. |
@@ -42,7 +42,7 @@ I am a creative, committed postgraduate based in London. Having fulfilled my aca
 #### Teamwork
 
 - I have worked as part of a team throughout my professional life, from small, close-knit groups to exhibition teams of over forty people, and I enjoy contributing and collaborating to achieve goals and complete projects.
-- I have experience of pair programming and project groups, and worked in pairs and groups during my time at Makers Academy.
+- I have experience of pair programming and project groups, and worked in pairs and groups during my time at Makers Academy, and as part of agile teams in a professional capacity.
 
 
 ## Education
