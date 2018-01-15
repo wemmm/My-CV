@@ -71,10 +71,14 @@ I am a creative, committed postgraduate based in London. Having fulfilled my aca
 
 ## Experience
 
-**Tata Consultancy Services** (August 2017 to present)    
+**DataSine** (January 2018 to present)   
+*Front end engineer*  
+I work on the front end of DataSine's machine learning & psychology platform as part of an agile tech team within a fast-paced startup. We use React.js and ES6 to develop and maintain a variety of apps and APIs.
+
+**Tata Consultancy Services** (August 2017 to January 2018)    
 *Assistant systems engineer*  
-I work as part of a close-knit, diverse and agile team to create innovative apps and prototypes for clients. We're tech 
-agnostic and work in a broad variety of frameworks and languages: Python, Flask, Ruby, RoR, JavaScript, Node.js and React to 
+I worked as part of a close-knit, diverse team to create innovative apps and prototypes for clients. We were tech 
+agnostic and worked in a broad variety of frameworks and languages: Python, Flask, Ruby, RoR, JavaScript, Node.js and React to 
 name a few!
 
 **Artist/Designer** (2012 to 2017)    
