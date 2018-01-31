@@ -90,7 +90,7 @@ I created print and web graphics for a variety of clients, and also my own intag
 Making, serving & talking about coffee, providing bonhomie to the coffee lovers of London, training new staff.
 
 **The Flood Gallery** (February 2015 to April 2016)   
-*Gallery Assistant*  
+*Gallery assistant*  
 Sales, website maintenance, social media management, web & print graphics, planning & executing exhibitions.
 
 ## Interests
