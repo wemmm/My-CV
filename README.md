@@ -71,9 +71,13 @@ I am a creative, committed postgraduate based in London. Having fulfilled my aca
 
 ## Experience
 
-**DataSine** (January 2018 to present)   
+**Capsule CRM** (September 2019 to present)   
 *Front end engineer*  
-I work on the front end of DataSine's machine learning & psychology platform as part of an agile tech team within a fast-paced startup. We use React.js and ES6 to develop and maintain a variety of apps and APIs.
+As one of the front end engineers at Capsule, I work on a large Ember.js codebase with many users around the world. I build components based on Figma designs, write tests, and investigate issues raised by our support team. 
+
+**DataSine** (January 2018 to September 2019)   
+*Front end engineer*  
+I worked on the front end of DataSine's machine learning & psychology platform as part of an agile tech team within a fast-paced startup. I used React.js, Redux, ES6 to develop and maintain frontends; wrote tests using Nightwatch, Jest and Enzyme; and built up user interfaces from Sketch and Figma designs.
 
 **Tata Consultancy Services** (August 2017 to January 2018)    
 *Assistant systems engineer*  
