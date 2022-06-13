@@ -68,9 +68,13 @@ I am a creative, committed front end developer based in Manchester. Having fulfi
 
 ## Experience
 
-**Capsule CRM** (September 2019 to present)   
+**Dept Agency** (April 2022 to present)    
+*Senior front end developer*  
+As part of a large, fast-paced digital agency, I build components using React & Typescript, write tests with Testing Library and provide support to other front end developers. 
+
+**Capsule CRM** (September 2019 to April 2022)   
 *Front end engineer*  
-As one of the front end engineers at Capsule, I extend and maintain a large CRM application with many users around the world. I build components and views based on Figma designs, write tests, and investigate issues raised by our support team. More recently I lead the front end development of our Outlook add-in, a React application that allows users to store emails against CRM contacts from inside their email client.
+I extended and maintained a CRM platform with many users around the world. I built components and views based on Figma designs, wrote tests, and investigated issues raised by our support team. I also led the front end development of our Outlook add-in, a React application that allows users to store emails against CRM contacts from inside their email client.
 
 **DataSine** (January 2018 to September 2019)   
 *Front end engineer*  
@@ -83,11 +87,7 @@ agnostic and worked in a broad variety of frameworks and languages: Python, Flas
 
 **Artist/Designer** (2012 to 2017)    
 *Freelance artist/designer*  
-I created print and web graphics for a variety of clients, and also my own intaglio print work. 
-
-**Mousetail Coffee Stories** (April 2016 to April 2017)   
-*Supervisor*  
-Making, serving & talking about coffee, providing bonhomie to the coffee lovers of London, training new staff.
+I created print and web graphics for a variety of clients, and also my own intaglio print work.
 
 ## Interests
 #### When I'm not coding, you can find me:
@@ -96,6 +96,6 @@ Making, serving & talking about coffee, providing bonhomie to the coffee lovers 
 - Messing about in Unity
 - Trying to run
 - Drinking damn fine coffee
-- Reading stuff, from blogs to literature and everything inbetween
-- Printmaking
+- Reading
+- Assembling mechanical keyboards
 - Knitting, sewing, cross stitching
