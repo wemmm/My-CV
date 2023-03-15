@@ -7,7 +7,7 @@
                                                                                             
 ```
 
-[SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [INTERESTS](#interests) | <a href="http://smoothwise.tumblr.com"/>ARTWORK</a> | [LINKEDIN](https://www.linkedin.com/in/jennifer-wem-9a5a89a5/)
+[SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | [INTERESTS](#interests) | <a href="https://wemmmmmmm.tumblr.com/"/>ARTWORK</a> | [LINKEDIN](https://www.linkedin.com/in/jennifer-wem-9a5a89a5/)
 
 I am a creative, committed front end developer based in Manchester. Having fulfilled my academic goals and worked in a diverse range of jobs, coding appealed to my creativity and eagerness to learn. I applied to study at the Makers Academy bootcamp, and spent twelve intense weeks pushing myself to produce clear, readable code. Since then I've worked for a variety of tech companies, from consultancy to startup. I care deeply about making things- whether it's code or artwork or just a cup of coffee, and I am looking to progress my career as a front end developer.
 
@@ -68,17 +68,21 @@ I am a creative, committed front end developer based in Manchester. Having fulfi
 
 ## Experience
 
-**Dept Agency** (April 2022 to present)    
-*Senior front end developer*  
-As part of a large, fast-paced digital agency, I build components using React & Typescript, write tests with Testing Library and provide support to other front end developers. 
+**Cinch** (October 2022 to present)    
+*Front end engineer*  
+I currently work on Cinch's Design System Squad to produce accessible, well-tested and easy-to-use components for use across the organisation. I also write documentation and blog articles advocating for design systems and best practices. We work with TypeScript, React, Next.js, Storybook, Jest, React Testing Library, Vanilla Extract and CSS.
+
+**Dept Agency** (April 2022 to October 2022)    
+*Front end engineer*  
+As part of a large, fast-paced digital agency, I built components and pages from Figma designs for various clients using React, Typescript and Styled Components; wrote tests with React Testing Library and provided support to other front end developers. 
 
 **Capsule CRM** (September 2019 to April 2022)   
 *Front end engineer*  
-I extended and maintained a CRM platform with many users around the world. I built components and views based on Figma designs, wrote tests, and investigated issues raised by our support team. I also led the front end development of our Outlook add-in, a React application that allows users to store emails against CRM contacts from inside their email client.
+I maintained and extended a CRM platform with many users around the world. I built components and views based on Figma designs, wrote tests, and investigated issues raised by our support team. I also led the front end development of our Outlook add-in, a React application that allows users to store emails against CRM contacts from inside their email client.
 
 **DataSine** (January 2018 to September 2019)   
 *Front end engineer*  
-I worked on the front end of DataSine's machine learning & psychology platform as part of an agile tech team within a fast-paced startup. I used React.js, Redux, ES6 to develop and maintain frontends; wrote tests using Nightwatch, Jest and Enzyme; and built up user interfaces from Sketch and Figma designs.
+I worked on the front end of DataSine's machine learning & psychology platform as part of an agile tech team within a fast-paced startup. I used React.js, Redux & ES6 to develop and maintain frontends; wrote tests using Nightwatch, Jest and Enzyme; and built up user interfaces from Sketch and Figma designs.
 
 **Tata Consultancy Services** (August 2017 to January 2018)    
 *Assistant systems engineer*  
